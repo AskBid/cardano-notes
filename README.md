@@ -1,2 +1,2 @@
 # cardano-notes
-notes are in teh wiki
+notes are in the wiki
